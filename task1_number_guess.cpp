@@ -24,7 +24,7 @@ int main()
         cout<<"Too low!"<<endl;}
         else{
         cout<<"Congratulations! you guessed correctly"<<endl;
-        }ask
+        }
     }while(guess!= number);
     
     return 0;
