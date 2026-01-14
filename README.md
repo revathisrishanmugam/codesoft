@@ -16,3 +16,6 @@ number is guessed.
 
 ## Author
 Revathi Sri
+
+## Output
+The program output is attached as a PDF file.
